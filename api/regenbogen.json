@@ -1,7 +1,35 @@
 {
-  "music": [
+    "music": [
     {
       "id": "stream_01",
+      "title": "Südbaden",
+      "album": "",
+      "artist": "Station Freiburg",
+      "genre": "",
+      "source": "http://streams.regenbogen.de/rr-freiburg-128-mp3",
+      "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/RRSuedbaden_0.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 0,
+      "site": "https://regenbogen.de"
+    },
+      
+  "music": [
+    {
+      "id": "stream_02",
+      "title": "Baden & die Pfalz",
+      "album": "",
+      "artist": "",
+      "genre": "",
+      "source": "http://streams.regenbogen.de/rr-karlsruhe-128-mp3",
+      "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/RRBadenPfalz_0.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 0,
+      "site": "https://regenbogen.de"
+    },
+        {
+      "id": "stream_03",
       "title": "Station Mannheim",
       "album": "",
       "artist": "",
@@ -13,5 +41,6 @@
       "duration": 0,
       "site": "https://regenbogen.de"
     }
+    
   ]
 }
