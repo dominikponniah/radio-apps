@@ -1,0 +1,17 @@
+{
+  "music": [
+    {
+      "id": "stream_01",
+      "title": "Station Mannheim",
+      "album": "",
+      "artist": "",
+      "genre": "",
+      "source": "https://streams.regenbogen.de/rr-mannheim-128-aac?usid=0-0-H-A-D-04",
+      "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/simulcastRR.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 0,
+      "site": "https://regenbogen.de"
+    }
+  ]
+}
