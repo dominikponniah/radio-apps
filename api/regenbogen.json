@@ -13,8 +13,6 @@
       "duration": 0,
       "site": "https://regenbogen.de"
     },
-      
-  "music": [
     {
       "id": "stream_02",
       "title": "Baden & die Pfalz",
@@ -28,7 +26,7 @@
       "duration": 0,
       "site": "https://regenbogen.de"
     },
-        {
+     {
       "id": "stream_03",
       "title": "Station Mannheim",
       "album": "",
