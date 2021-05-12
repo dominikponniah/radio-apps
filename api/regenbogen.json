@@ -1,12 +1,12 @@
 {
-    "music": [
+  "music": [
     {
       "id": "stream_01",
       "title": "Südbaden",
       "album": "",
-      "artist": "Station Freiburg",
+      "artist": "Studio Freiburg",
       "genre": "",
-      "source": "http://streams.regenbogen.de/rr-freiburg-128-mp3",
+      "source": "https://streams.regenbogen.de/rr-freiburg-128-mp3",
       "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/RRSuedbaden_0.jpg",
       "trackNumber": 1,
       "totalTrackCount": 1,
@@ -17,28 +17,79 @@
       "id": "stream_02",
       "title": "Baden & die Pfalz",
       "album": "",
-      "artist": "",
+      "artist": "Studio Karlsruhe",
       "genre": "",
-      "source": "http://streams.regenbogen.de/rr-karlsruhe-128-mp3",
+      "source": "https://streams.regenbogen.de/rr-karlsruhe-128-mp3",
       "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/RRBadenPfalz_0.jpg",
       "trackNumber": 1,
       "totalTrackCount": 1,
       "duration": 0,
       "site": "https://regenbogen.de"
     },
-     {
+    {
       "id": "stream_03",
-      "title": "Station Mannheim",
+      "title": "Rhein-Neckar",
+      "album": "",
+      "artist": "Studio Mannheim",
+      "genre": "",
+      "source": "https://streams.regenbogen.de/rr-mannheim-128-mp3",
+      "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/RRRheinNeckar_0.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 0,
+      "site": "https://regenbogen.de"
+    },
+    {
+      "id": "stream_04",
+      "title": "80er",
       "album": "",
       "artist": "",
       "genre": "",
-      "source": "http://streams.regenbogen.de/rr-mannheim-128-mp3",
-      "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/simulcastRR.jpg",
+      "source": "https://streams.regenbogen.de/rr-80er-128-mp3",
+      "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/80er_1.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 0,
+      "site": "https://regenbogen.de"
+    },
+    {
+      "id": "stream_05",
+      "title": "2000er",
+      "album": "",
+      "artist": "",
+      "genre": "",
+      "source": "https://streams.regenbogen.de/rr-2000er-128-mp3",
+      "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/2000er.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 0,
+      "site": "https://regenbogen.de"
+    },
+    {
+      "id": "stream_06",
+      "title": "Deutschpop",
+      "album": "",
+      "artist": "",
+      "genre": "",
+      "source": "https://streams.regenbogen.de/rr-deutschpop-128-mp3",
+      "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/deutschpop_0.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 0,
+      "site": "https://regenbogen.de"
+    },
+    {
+      "id": "stream_07",
+      "title": "Top 40",
+      "album": "",
+      "artist": "",
+      "genre": "",
+      "source": "https://streams.regenbogen.de/rr-top40-128-mp3",
+      "image": "https://cdn.regenbogen.de/sites/default/files/styles/webstream_cover/public/scald/image/top40.jpg",
       "trackNumber": 1,
       "totalTrackCount": 1,
       "duration": 0,
       "site": "https://regenbogen.de"
     }
-    
   ]
 }
