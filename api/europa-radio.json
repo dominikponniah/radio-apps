@@ -1,0 +1,17 @@
+{
+  "music": [
+    {
+      "id": "stream_01",
+      "title": "Europa-Radio",
+      "album": "RUST - Deutschland",
+      "artist": "",
+      "genre": "",
+      "source": "https://rs9.stream24.net/europa-park-radio.mp3",
+      "image": "https://europa.radio/wp-content/themes/radio-europapark/radioapp/tmp/images/default.jpg",
+      "trackNumber": 1,
+      "totalTrackCount": 1,
+      "duration": 0,
+      "site": "https://europa.radio"
+    }
+  ]
+}
