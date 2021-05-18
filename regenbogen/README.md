@@ -26,8 +26,8 @@ Fehler gefunden? Melde diesen
 Quellen und Rechteinhaber
 -----
 
-Der Audio-Stream, wie auch Logos und das CI/CD der Applikation sind geistiges und materielles Eigentum der MackNext GmbH & Co. KG, Roland-Mack-Ring 1, 77977 Rust, Deutschland. 
-Die MackNext GmbH & Co. KG hat eine veröffentlichung im PlayStore verboten. Daher wird dieser Code als beispiel für andere OSS-Anwendungen veröffentlicht. Die Applikation wurde nicht weiter veröffentlich und eine weitere Veröffentlichung wurde nicht in Betracht gezogen.
+Der Audio-Stream, wie auch Logos und das CI/CD der Applikation sind geistiges und materielles Eigentum der Radio Regenbogen Rundfunk GmbH und Co. KG. 
+Die Rechteinhaberin hat eine veröffentlichung im PlayStore verboten. Daher wird dieser Code als Beispiel für andere OSS-Anwendungen veröffentlicht. Die Applikation wurde nicht weiter veröffentlicht und eine weitere Veröffentlichung wurde nicht in Betracht gezogen.
 
 
 <b>§ 24 (UrhG)
